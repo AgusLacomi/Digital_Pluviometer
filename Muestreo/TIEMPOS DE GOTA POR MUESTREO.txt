@@ -1,0 +1,37 @@
+DE PRUEBA 1 A 10 SE TESTEÓ PROGRAMA
+Tubo una tiempo entre gotas de 3 segundos ±50 ms
+Prueba 4, 5, 7, 8, 9 y 10 son usables
+
+Prueba 3: Contador 2 - 132
+	  Contador 3 - 122
+	  Contador 4 - 146
+	  Contador 5 - 134
+	  Contador 6 - 172
+	  Contador 7 - 133
+	  Contador 8 - 160
+	  Contador 9 - 187
+	  Contador 10 - 180
+	  Contador 11 - 153
+	  Contador 12 - 177
+	  Contador 13 - 158
+	  Contador 14 - 196
+	  Contador 15 - 174
+
+Prueba 4: Contador 2 - 142
+	  Contador 3 - 129
+	  Contador 4 - 131
+	  Contador 5 - 137
+	  Contador 6 - 110
+	  Contador 7 - 141
+	  Contador 8 - 151
+	  Contador 9 - 184
+	  Contador 10 - 126
+	  Contador 11 - 190
+	  Contador 12 - 134
+	  Contador 13 - 163
+	  Contador 14 - 132
+
+
+Se va a tener que sacar un promedio entre las cantidad X de cangilones que haga en una cantidad de mililitros
+Ese valor promedio que se saco se dividirá por la cantidad de ml y te dará la medida mínima para que ceda un cangilon
+ 
